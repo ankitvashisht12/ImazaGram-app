@@ -1,4 +1,4 @@
-# sample_01
+# ImazaGram
 
 A new Flutter project.
 
