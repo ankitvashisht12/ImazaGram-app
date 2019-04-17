@@ -1,10 +1,13 @@
 # ImazaGram
 
 A new Flutter project.
+This project is a simple Flutter application which adds colorful images whenever user presses floating action button.
+
+# Demo
+![ImazaGram](https://user-images.githubusercontent.com/40850169/56283630-f4cddc80-612f-11e9-94ae-24f268fc13c9.gif)
+
 
 ## Getting Started
-
-This project is a simple Flutter application which adds colorful images whenever user presses floating action button.
 
 A few resources to get you started if this is your first Flutter project:
 
